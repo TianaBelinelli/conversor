@@ -1,4 +1,5 @@
 import 'package:conversor/pages/home_page.dart';
+import 'package:conversor/pages/main_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
